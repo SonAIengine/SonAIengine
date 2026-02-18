@@ -1,4 +1,4 @@
-## Son Sungjun
+## Son Seong Joon
 
 AI Engineer building search engines, LLM infrastructure, and developer tools.
 
