@@ -21,8 +21,8 @@ jobs:
           max_post_count: 5
           readme_path: ./README.md
           comment_tag_name: "BLOG-POST-LIST"
-          template: "$newline- **[$title]($url)** <sub>$date</sub>"
-          date_format: "yyyy-MM-dd"
+          template: "<tr><td><a href=\"$url\"><b>$title</b></a></td><td><code>$date</code></td></tr>"
+          date_format: "yyyy-mm-dd"
           commit_message: "docs: 최근 블로그 글 목록 자동 업데이트"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
