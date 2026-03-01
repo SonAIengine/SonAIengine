@@ -17,7 +17,7 @@ jobs:
       - name: Pull Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://sonaiengine.github.io/sonblog/feed_rss_created.xml"
+          feed_list: "https://infoedu.co.kr/feed_rss_created.xml"
           max_post_count: 5
           readme_path: ./README.md
           comment_tag_name: "BLOG-POST-LIST"
