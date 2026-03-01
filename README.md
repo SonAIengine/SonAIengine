@@ -20,6 +20,18 @@
 
 <br/>
 
+## About Me
+
+|  |  |
+|:---|:---|
+| :briefcase: **Career** | AI Engineer @ **Plateer** (E-Commerce Solutions) |
+| :mortar_board: **Education** | **Korea University** Graduate School of SW·AI (M.S. in AI, 2026~) |
+|  | **Hanyang University** B.S. in Urban Engineering |
+| :round_pushpin: **Location** | Seoul, Korea |
+| :pencil: **Blog** | [infoedu.co.kr](https://infoedu.co.kr) — 252+ tech posts |
+
+<br/>
+
 ## Featured Projects
 
 | Project | Description | Stack |
