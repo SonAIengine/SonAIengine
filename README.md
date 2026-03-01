@@ -22,8 +22,6 @@
 
 ## Featured Projects
 
-<div align="center">
-
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [**ku-portal-mcp**](https://github.com/SonAIengine/ku-portal-mcp) | Korea Univ. KUPID 포털 MCP Server — 공지, LMS, 시간표, 장학 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
@@ -33,13 +31,7 @@
 | [**gwanjong-mcp**](https://github.com/SonAIengine/gwanjong-mcp) | DCInside MCP Server for Claude | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
 | [**infra**](https://github.com/SonAIengine/infra) | K8s, Helm, ArgoCD 기반 인프라 자동화 | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
-</div>
-
-<br/>
-
 ## Blog Categories
-
-<div align="center">
 
 | | Category | Posts | Topics |
 |:---:|:---|:---:|:---|
@@ -47,8 +39,6 @@
 | :robot: | **[AI / ML & LLM](https://infoedu.co.kr/ai/)** | 58 | GPU Serving, Embedding, Fine-tuning, RAG, XGEN |
 | :computer: | **[Full Stack](https://infoedu.co.kr/python/)** | 56 | Python, NestJS, React, Next.js, PoC |
 | :whale: | **[DevOps / Infra](https://infoedu.co.kr/devops/)** | 36 | K8s, ArgoCD, Docker, CI/CD, K3s |
-
-</div>
 
 <br/>
 
