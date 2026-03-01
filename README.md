@@ -22,12 +22,24 @@
 
 ## About Me
 
-|  |  |
-|:---|:---|
-| :mortar_board: **Education** | **Korea University** Graduate School of SW·AI (M.S. in AI, 2026~) <br/> **Hanyang University** B.S. in Urban Engineering |
-| :round_pushpin: **Location** | Seoul, Korea |
-| :envelope: **Email** | sonsj97@plateer.com · sonsj97@gmail.com |
-| :pencil: **Blog** | [infoedu.co.kr](https://infoedu.co.kr) — 252+ tech posts |
+<table>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td><b>Korea University</b> Graduate School of SW·AI (M.S. in AI, 2026~)<br/><b>Hanyang University</b> B.S. in Urban Engineering</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Seoul, Korea</td>
+  </tr>
+  <tr>
+    <td>✉️ <b>Email</b></td>
+    <td>sonsj97@plateer.com · sonsj97@gmail.com</td>
+  </tr>
+  <tr>
+    <td>📝 <b>Blog</b></td>
+    <td><a href="https://infoedu.co.kr">infoedu.co.kr</a> — 252+ tech posts</td>
+  </tr>
+</table>
 
 <br/>
 
