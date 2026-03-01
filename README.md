@@ -31,6 +31,7 @@
 | [**workstream-kb**](https://github.com/SonAIengine/workstream-kb) | 이메일 & Teams → AI 일일 업무 리포트 자동화 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square) |
 | [**mcp-pipeline**](https://github.com/SonAIengine/mcp-pipeline) | Stateful Pipeline framework for MCP servers | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
 | [**gwanjong-mcp**](https://github.com/SonAIengine/gwanjong-mcp) | DCInside MCP Server for Claude | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
+| [**infra**](https://github.com/SonAIengine/infra) | K8s, Helm, ArgoCD 기반 인프라 자동화 | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
 </div>
 
