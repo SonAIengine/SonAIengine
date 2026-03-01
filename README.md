@@ -22,42 +22,14 @@
 
 ## Featured Projects
 
-<div align="center">
-<p>
-  <a href="https://github.com/SonAIengine/ku-portal-mcp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=ku-portal-mcp&theme=github_dark&hide_border=true&show_owner=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=ku-portal-mcp&theme=default&hide_border=true&show_owner=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=ku-portal-mcp&theme=default&hide_border=true&show_owner=true" alt="ku-portal-mcp" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/SonAIengine/workstream-kb">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=workstream-kb&theme=github_dark&hide_border=true&show_owner=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=workstream-kb&theme=default&hide_border=true&show_owner=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=workstream-kb&theme=default&hide_border=true&show_owner=true" alt="workstream-kb" />
-    </picture>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/SonAIengine/mcp-pipeline">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=mcp-pipeline&theme=github_dark&hide_border=true&show_owner=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=mcp-pipeline&theme=default&hide_border=true&show_owner=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=mcp-pipeline&theme=default&hide_border=true&show_owner=true" alt="mcp-pipeline" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/SonAIengine/sonblog">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=sonblog&theme=github_dark&hide_border=true&show_owner=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=sonblog&theme=default&hide_border=true&show_owner=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonAIengine&repo=sonblog&theme=default&hide_border=true&show_owner=true" alt="sonblog" />
-    </picture>
-  </a>
-</p>
-</div>
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**ku-portal-mcp**](https://github.com/SonAIengine/ku-portal-mcp) | Korea Univ. KUPID 포털 MCP Server — 공지, LMS, 시간표, 장학 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
+| [**graph-tool-call**](https://github.com/SonAIengine/graph-tool-call) | Graph DB 기반 LLM tool retrieval | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) |
+| [**workstream-kb**](https://github.com/SonAIengine/workstream-kb) | 이메일 & Teams → AI 일일 업무 리포트 자동화 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square) |
+| [**mcp-pipeline**](https://github.com/SonAIengine/mcp-pipeline) | Stateful Pipeline framework for MCP servers | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
+| [**gwanjong-mcp**](https://github.com/SonAIengine/gwanjong-mcp) | DCInside MCP Server for Claude | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
+| [**sonblog**](https://github.com/SonAIengine/sonblog) | AI Engineer 기술 블로그 — 252 posts | ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white) [![Blog](https://img.shields.io/badge/infoedu.co.kr-FF6B6B?style=flat-square)](https://infoedu.co.kr) |
 
 <br/>
 
