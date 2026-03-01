@@ -22,6 +22,8 @@
 
 ## Featured Projects
 
+<div align="center">
+
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [**ku-portal-mcp**](https://github.com/SonAIengine/ku-portal-mcp) | Korea Univ. KUPID 포털 MCP Server — 공지, LMS, 시간표, 장학 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
@@ -29,6 +31,8 @@
 | [**workstream-kb**](https://github.com/SonAIengine/workstream-kb) | 이메일 & Teams → AI 일일 업무 리포트 자동화 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square) |
 | [**mcp-pipeline**](https://github.com/SonAIengine/mcp-pipeline) | Stateful Pipeline framework for MCP servers | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
 | [**gwanjong-mcp**](https://github.com/SonAIengine/gwanjong-mcp) | DCInside MCP Server for Claude | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
+
+</div>
 
 <br/>
 
