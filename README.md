@@ -24,10 +24,9 @@
 
 |  |  |
 |:---|:---|
-| :briefcase: **Career** | AI Engineer @ **Plateer** (E-Commerce Solutions) |
-| :mortar_board: **Education** | **Korea University** Graduate School of SW·AI (M.S. in AI, 2026~) |
-|  | **Hanyang University** B.S. in Urban Engineering |
+| :mortar_board: **Education** | **Korea University** Graduate School of SW·AI (M.S. in AI, 2026~) <br/> **Hanyang University** B.S. in Urban Engineering |
 | :round_pushpin: **Location** | Seoul, Korea |
+| :envelope: **Email** | sonsj97@plateer.com · sonsj97@gmail.com |
 | :pencil: **Blog** | [infoedu.co.kr](https://infoedu.co.kr) — 252+ tech posts |
 
 <br/>
@@ -144,5 +143,7 @@
 [![Blog](https://img.shields.io/badge/SON_BLOG-infoedu.co.kr-FF6B6B?style=flat-square&logo=materialformkdocs&logoColor=white)](https://infoedu.co.kr)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sonsj97@plateer.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:sonsj97@plateer.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-sonsj97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sonsj97@gmail.com)
 
 </div>
