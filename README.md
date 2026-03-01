@@ -29,7 +29,6 @@
 | [**workstream-kb**](https://github.com/SonAIengine/workstream-kb) | 이메일 & Teams → AI 일일 업무 리포트 자동화 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square) |
 | [**mcp-pipeline**](https://github.com/SonAIengine/mcp-pipeline) | Stateful Pipeline framework for MCP servers | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
 | [**gwanjong-mcp**](https://github.com/SonAIengine/gwanjong-mcp) | DCInside MCP Server for Claude | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square) |
-| [**sonblog**](https://github.com/SonAIengine/sonblog) | AI Engineer 기술 블로그 — 252 posts | ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white) [![Blog](https://img.shields.io/badge/infoedu.co.kr-FF6B6B?style=flat-square)](https://infoedu.co.kr) |
 
 <br/>
 
